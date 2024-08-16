@@ -1,0 +1,13 @@
+.back-button {
+  display: flex;
+}
+
+.back-button-link {
+  background-color: #0ca4d3;
+  color: black;  
+}
+
+.arrow {
+  font-size: 1.5rem;
+  cursor: pointer;
+}
